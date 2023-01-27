@@ -1,0 +1,4 @@
+.terraform
+.infracost
+crash.log
+.terraform.lock.hcl
