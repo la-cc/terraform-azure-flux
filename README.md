@@ -5,7 +5,7 @@ The module is used to deploy flux for azure kubernetes service (aks) over terraf
 # Exmaple Use of Modul:
 
     module "azure_flux" {
-    source = "github.com/la-cc/aks-creator-flux.git?ref=0.0.1"
+    source = "github.com/la-cc/aks-creator-flux.git?ref=1.0.0"
 
     config_context  = var.config_context
 
